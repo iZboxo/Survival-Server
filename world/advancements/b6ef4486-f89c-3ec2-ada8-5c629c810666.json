@@ -441,6 +441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2022-07-08 15:04:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2022-07-07 15:56:50 +0000"
@@ -762,6 +768,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2022-07-08 14:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2022-07-08 15:04:54 +0000"
     },
     "done": true
   },
@@ -1746,7 +1758,9 @@
       "minecraft:beach": "2022-07-06 15:32:46 +0000",
       "minecraft:river": "2022-07-07 08:11:02 +0000",
       "minecraft:stony_shore": "2022-07-07 08:11:15 +0000",
+      "minecraft:cold_ocean": "2022-07-08 15:07:42 +0000",
       "minecraft:forest": "2022-07-08 13:44:57 +0000",
+      "minecraft:deep_cold_ocean": "2022-07-08 15:06:57 +0000",
       "minecraft:ocean": "2022-07-07 08:31:12 +0000",
       "minecraft:flower_forest": "2022-07-06 15:28:14 +0000",
       "minecraft:plains": "2022-07-07 07:53:26 +0000"
@@ -1924,6 +1938,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2022-07-07 15:56:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2022-07-08 15:04:54 +0000"
     },
     "done": true
   },
