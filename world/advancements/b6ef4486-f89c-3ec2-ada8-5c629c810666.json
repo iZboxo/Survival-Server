@@ -1779,9 +1779,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2022-07-08 15:01:05 +0000",
+      "minecraft:frozen_river": "2022-07-08 15:20:35 +0000",
       "minecraft:beach": "2022-07-06 15:32:46 +0000",
       "minecraft:river": "2022-07-07 08:11:02 +0000",
       "minecraft:stony_shore": "2022-07-07 08:11:15 +0000",
+      "minecraft:snowy_taiga": "2022-07-08 15:20:34 +0000",
       "minecraft:cold_ocean": "2022-07-08 15:07:42 +0000",
       "minecraft:forest": "2022-07-08 13:44:57 +0000",
       "minecraft:deep_cold_ocean": "2022-07-08 15:06:57 +0000",
@@ -1947,15 +1949,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2022-07-08 15:13:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2022-07-08 15:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2022-07-08 15:13:37 +0000"
     },
     "done": true
   },
