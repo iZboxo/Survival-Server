@@ -8,7 +8,7 @@ while true
 do
 git add .
 git commit -m "auto-save"
-git push
+git push --set-upstream origin master
 printf "I ${RED}Saved the world${NC}  " 
 echo $timestamp
 
