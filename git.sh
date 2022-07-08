@@ -12,5 +12,5 @@ git push
 printf "I ${RED}Saved the world${NC}  " 
 echo $timestamp
 
-sleep 10
+sleep 60
 done
