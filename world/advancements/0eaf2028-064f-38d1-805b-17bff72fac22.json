@@ -244,6 +244,7 @@
       "cooked_mutton": "2022-07-08 13:31:37 +0000",
       "sweet_berries": "2022-07-09 07:37:49 +0000",
       "cooked_beef": "2022-07-09 07:39:33 +0000",
+      "apple": "2022-07-09 17:32:53 +0000",
       "bread": "2022-07-09 07:54:03 +0000",
       "golden_apple": "2022-07-09 08:01:09 +0000",
       "rotten_flesh": "2022-07-08 13:57:36 +0000",
@@ -778,15 +779,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2022-07-09 08:23:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2022-07-09 08:19:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2022-07-09 08:23:42 +0000"
     },
     "done": true
   },
