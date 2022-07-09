@@ -2076,6 +2076,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2022-07-09 16:16:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2022-07-08 09:08:50 +0000"
