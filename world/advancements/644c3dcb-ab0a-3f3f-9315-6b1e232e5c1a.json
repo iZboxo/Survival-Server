@@ -809,6 +809,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2022-07-07 08:26:05 +0000",
+      "minecraft:spider": "2022-07-09 18:08:04 +0000",
       "minecraft:creeper": "2022-07-07 08:41:25 +0000",
       "minecraft:zombie": "2022-07-07 08:23:31 +0000",
       "minecraft:drowned": "2022-07-09 17:57:25 +0000"
