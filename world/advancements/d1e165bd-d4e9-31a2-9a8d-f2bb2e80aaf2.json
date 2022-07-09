@@ -853,6 +853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2022-07-09 13:30:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-07-07 16:19:41 +0000"
@@ -1182,6 +1188,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2022-07-08 11:45:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2022-07-09 13:31:16 +0000"
     },
     "done": true
   },
@@ -1755,6 +1767,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2022-07-09 13:30:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2022-07-07 08:18:05 +0000"
@@ -1874,6 +1892,7 @@
       "minecraft:flower_forest": "2022-07-06 15:28:42 +0000",
       "minecraft:old_growth_birch_forest": "2022-07-08 12:45:46 +0000",
       "minecraft:meadow": "2022-07-07 15:49:18 +0000",
+      "minecraft:windswept_gravelly_hills": "2022-07-09 13:29:11 +0000",
       "minecraft:plains": "2022-07-07 07:53:02 +0000"
     },
     "done": false
