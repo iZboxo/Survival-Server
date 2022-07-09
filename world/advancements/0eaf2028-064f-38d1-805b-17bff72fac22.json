@@ -1289,6 +1289,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2022-07-09 08:31:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2022-07-08 13:13:38 +0000"
