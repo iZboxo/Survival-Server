@@ -291,6 +291,7 @@
     "criteria": {
       "cooked_porkchop": "2022-07-07 08:21:04 +0000",
       "cooked_mutton": "2022-07-07 08:42:04 +0000",
+      "sweet_berries": "2022-07-09 18:14:19 +0000",
       "apple": "2022-07-07 08:19:15 +0000",
       "rotten_flesh": "2022-07-07 08:27:31 +0000"
     },
@@ -581,6 +582,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-07-09 17:47:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2022-07-09 18:12:00 +0000"
     },
     "done": true
   },
