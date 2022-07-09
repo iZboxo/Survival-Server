@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2022-07-09 17:27:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2022-07-08 14:12:05 +0000"
@@ -134,6 +140,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2022-07-07 07:51:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-07-09 17:27:50 +0000"
     },
     "done": true
   },
@@ -266,6 +278,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2022-07-07 07:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2022-07-09 17:27:50 +0000"
     },
     "done": true
   },
@@ -421,6 +439,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2022-07-07 15:56:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2022-07-09 17:27:25 +0000"
     },
     "done": true
   },
@@ -970,6 +994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2022-07-09 17:27:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2022-07-07 15:56:56 +0000"
@@ -1070,6 +1100,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2022-07-09 17:27:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_shovel": "2022-07-07 15:56:57 +0000"
@@ -1121,6 +1157,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2022-07-07 15:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2022-07-09 17:27:25 +0000"
     },
     "done": true
   },
@@ -1265,6 +1307,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2022-07-07 08:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2022-07-09 17:27:50 +0000"
     },
     "done": true
   },
@@ -1508,6 +1556,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2022-07-09 17:27:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-07-07 08:12:22 +0000"
@@ -1706,6 +1760,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-07-09 17:27:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2022-07-07 16:17:59 +0000"
@@ -1827,6 +1887,7 @@
       "minecraft:sunflower_plains": "2022-07-08 16:41:41 +0000",
       "minecraft:birch_forest": "2022-07-09 13:46:53 +0000",
       "minecraft:beach": "2022-07-06 15:32:46 +0000",
+      "minecraft:dark_forest": "2022-07-09 17:28:09 +0000",
       "minecraft:river": "2022-07-07 08:11:02 +0000",
       "minecraft:stony_shore": "2022-07-07 08:11:15 +0000",
       "minecraft:snowy_taiga": "2022-07-08 15:20:34 +0000",
@@ -1835,6 +1896,7 @@
       "minecraft:deep_cold_ocean": "2022-07-08 15:06:57 +0000",
       "minecraft:ocean": "2022-07-07 08:31:12 +0000",
       "minecraft:flower_forest": "2022-07-06 15:28:14 +0000",
+      "minecraft:old_growth_birch_forest": "2022-07-09 17:28:14 +0000",
       "minecraft:meadow": "2022-07-09 13:46:35 +0000",
       "minecraft:plains": "2022-07-07 07:53:26 +0000"
     },
@@ -2095,6 +2157,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2022-07-08 12:59:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-07-09 17:27:50 +0000"
     },
     "done": true
   },
