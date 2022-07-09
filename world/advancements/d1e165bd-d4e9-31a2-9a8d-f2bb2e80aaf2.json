@@ -1886,6 +1886,7 @@
       "minecraft:dark_forest": "2022-07-09 13:09:28 +0000",
       "minecraft:river": "2022-07-07 08:11:31 +0000",
       "minecraft:stony_shore": "2022-07-07 08:11:40 +0000",
+      "minecraft:cold_ocean": "2022-07-09 13:40:42 +0000",
       "minecraft:forest": "2022-07-07 15:35:35 +0000",
       "minecraft:ocean": "2022-07-06 15:43:59 +0000",
       "minecraft:old_growth_spruce_taiga": "2022-07-08 12:51:32 +0000",
@@ -1918,6 +1919,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-07-07 15:53:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2022-07-09 13:40:02 +0000"
     },
     "done": true
   },
