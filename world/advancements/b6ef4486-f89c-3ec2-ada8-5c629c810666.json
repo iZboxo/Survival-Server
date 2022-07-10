@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2022-07-10 12:50:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2022-07-07 08:10:31 +0000"
@@ -326,6 +332,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2022-07-07 07:51:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2022-07-10 12:50:36 +0000"
     },
     "done": true
   },
@@ -1153,6 +1165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2022-07-10 12:50:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_red_flower": "2022-07-07 07:51:06 +0000"
@@ -1608,6 +1626,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2022-07-10 12:50:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2022-07-07 07:51:01 +0000"
@@ -1827,6 +1851,12 @@
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-07-08 14:59:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2022-07-10 12:50:36 +0000"
     },
     "done": true
   },
@@ -2265,6 +2295,12 @@
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2022-07-07 15:56:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2022-07-10 12:50:36 +0000"
     },
     "done": true
   },
