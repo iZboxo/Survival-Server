@@ -353,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2022-07-10 17:27:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2022-07-07 15:38:27 +0000"
@@ -500,6 +506,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2022-07-07 07:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2022-07-10 17:27:43 +0000"
     },
     "done": true
   },
@@ -1231,6 +1243,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2022-07-10 17:27:54 +0000",
       "minecraft:basalt_deltas": "2022-07-10 17:24:50 +0000"
     },
     "done": false
@@ -2282,6 +2295,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2022-07-07 15:35:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2022-07-10 17:27:43 +0000"
     },
     "done": true
   },
