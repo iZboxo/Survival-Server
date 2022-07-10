@@ -557,7 +557,8 @@
       "minecraft:spider": "2022-07-07 15:48:01 +0000",
       "minecraft:creeper": "2022-07-07 08:19:50 +0000",
       "minecraft:enderman": "2022-07-08 13:09:03 +0000",
-      "minecraft:zombie": "2022-07-09 14:43:52 +0000"
+      "minecraft:zombie": "2022-07-09 14:43:52 +0000",
+      "minecraft:zombie_villager": "2022-07-10 14:24:19 +0000"
     },
     "done": false
   },
@@ -1055,6 +1056,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2022-07-10 14:20:48 +0000",
       "minecraft:deep_ocean": "2022-07-08 15:01:05 +0000",
       "minecraft:frozen_river": "2022-07-08 15:20:35 +0000",
       "minecraft:sunflower_plains": "2022-07-08 16:41:41 +0000",
