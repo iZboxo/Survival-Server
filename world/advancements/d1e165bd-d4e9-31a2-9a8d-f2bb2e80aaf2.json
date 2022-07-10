@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2022-07-10 17:41:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2022-07-08 09:23:18 +0000"
@@ -513,6 +519,7 @@
     "criteria": {
       "minecraft:pillager": "2022-07-09 08:23:38 +0000",
       "minecraft:skeleton": "2022-07-07 15:42:31 +0000",
+      "minecraft:ghast": "2022-07-10 17:41:12 +0000",
       "minecraft:spider": "2022-07-07 08:20:28 +0000",
       "minecraft:creeper": "2022-07-07 08:19:54 +0000",
       "minecraft:slime": "2022-07-08 13:45:41 +0000",
@@ -1242,7 +1249,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2022-07-10 17:26:53 +0000",
-      "minecraft:basalt_deltas": "2022-07-10 17:24:51 +0000"
+      "minecraft:basalt_deltas": "2022-07-10 17:24:51 +0000",
+      "minecraft:warped_forest": "2022-07-10 17:38:26 +0000"
     },
     "done": false
   },
@@ -2146,6 +2154,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-07-10 17:38:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2022-07-07 08:27:12 +0000"
@@ -2449,6 +2463,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2022-07-07 07:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2022-07-10 17:41:10 +0000"
     },
     "done": true
   },
