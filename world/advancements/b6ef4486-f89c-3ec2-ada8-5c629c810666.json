@@ -1254,6 +1254,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2022-07-10 17:44:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2022-07-07 15:38:27 +0000"
@@ -1299,6 +1305,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2022-07-10 17:27:54 +0000",
+      "minecraft:soul_sand_valley": "2022-07-10 17:39:59 +0000",
       "minecraft:basalt_deltas": "2022-07-10 17:24:50 +0000"
     },
     "done": false
