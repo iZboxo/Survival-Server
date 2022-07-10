@@ -1229,6 +1229,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2022-07-10 17:24:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2022-07-07 15:35:28 +0000"
@@ -1352,6 +1358,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2022-07-08 13:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-07-10 17:24:49 +0000"
     },
     "done": true
   },
@@ -1512,6 +1524,7 @@
       "sweet_berries": "2022-07-08 13:21:59 +0000",
       "cooked_beef": "2022-07-07 16:17:07 +0000",
       "apple": "2022-07-07 08:16:24 +0000",
+      "bread": "2022-07-10 17:22:04 +0000",
       "cod": "2022-07-09 15:07:26 +0000"
     },
     "done": false
@@ -1879,6 +1892,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2022-07-09 17:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-07-10 17:24:49 +0000"
     },
     "done": true
   },
