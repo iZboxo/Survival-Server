@@ -288,6 +288,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2022-07-10 17:09:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2022-07-08 13:17:17 +0000"
@@ -561,6 +567,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2022-07-08 13:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2022-07-10 17:09:11 +0000"
     },
     "done": true
   },
@@ -1262,9 +1274,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2022-07-08 13:59:24 +0000",
+      "minecraft:sunflower_plains": "2022-07-10 17:11:05 +0000",
       "minecraft:birch_forest": "2022-07-09 08:26:42 +0000",
       "minecraft:beach": "2022-07-08 13:07:43 +0000",
       "minecraft:river": "2022-07-08 14:12:02 +0000",
+      "minecraft:stony_shore": "2022-07-10 17:11:16 +0000",
       "minecraft:forest": "2022-07-09 08:26:39 +0000",
       "minecraft:ocean": "2022-07-08 13:34:07 +0000",
       "minecraft:flower_forest": "2022-07-08 13:07:23 +0000",
@@ -1413,6 +1427,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-07-08 13:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2022-07-10 17:09:11 +0000"
     },
     "done": true
   },
