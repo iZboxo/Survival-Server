@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2022-07-13 05:22:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2022-07-08 13:31:41 +0000"
@@ -80,6 +86,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2022-07-07 07:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-07-13 05:22:40 +0000"
     },
     "done": true
   },
@@ -152,6 +164,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2022-07-07 07:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2022-07-13 05:22:40 +0000"
     },
     "done": true
   },
@@ -467,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2022-07-13 05:22:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2022-07-07 08:18:05 +0000"
@@ -604,6 +628,7 @@
       "minecraft:slime": "2022-07-08 13:45:41 +0000",
       "minecraft:cave_spider": "2022-07-09 07:44:17 +0000",
       "minecraft:enderman": "2022-07-08 13:38:16 +0000",
+      "minecraft:stray": "2022-07-13 05:22:10 +0000",
       "minecraft:zombie": "2022-07-07 08:22:11 +0000",
       "minecraft:drowned": "2022-07-07 08:16:23 +0000",
       "minecraft:zombie_villager": "2022-07-12 13:26:04 +0000"
@@ -892,6 +917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2022-07-13 05:22:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2022-07-07 15:48:02 +0000"
@@ -1090,6 +1121,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-07-13 05:22:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2022-07-11 11:08:40 +0000"
@@ -1206,6 +1243,7 @@
       "minecraft:forest": "2022-07-07 15:35:35 +0000",
       "minecraft:deep_cold_ocean": "2022-07-09 17:17:59 +0000",
       "minecraft:frozen_ocean": "2022-07-12 13:54:16 +0000",
+      "minecraft:deep_frozen_ocean": "2022-07-13 05:21:02 +0000",
       "minecraft:ocean": "2022-07-06 15:43:59 +0000",
       "minecraft:old_growth_spruce_taiga": "2022-07-08 12:51:32 +0000",
       "minecraft:snowy_beach": "2022-07-12 13:54:15 +0000",
@@ -2115,6 +2153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2022-07-13 05:22:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2022-07-08 13:32:54 +0000"
@@ -2190,6 +2234,12 @@
   "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-07-10 08:23:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2022-07-13 05:22:40 +0000"
     },
     "done": true
   },
@@ -2298,6 +2348,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2022-07-07 08:37:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2022-07-13 05:22:40 +0000"
     },
     "done": true
   },
@@ -2430,6 +2486,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2022-07-08 13:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2022-07-13 05:22:40 +0000"
     },
     "done": true
   },
@@ -2820,6 +2882,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2022-07-09 08:13:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-07-13 05:22:40 +0000"
     },
     "done": true
   },
