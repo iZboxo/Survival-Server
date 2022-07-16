@@ -11,8 +11,15 @@ sets:
         areas: {
             }
         label: Markers
-        markers: {
-            }
+        markers:
+            marker_1:
+                world: world
+                markup: false
+                x: 26.0
+                icon: hammer
+                y: 81.0
+                z: 66.0
+                label: Domovní Domov
         lines: {
             }
         layerprio: 0
