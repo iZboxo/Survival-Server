@@ -3,8 +3,9 @@
 ,"label": "Markers","markers": {"_spawn_world": {"markup": false,"x": 16.00,"icon": "world","y": 82.00,"dim": "16x16","z": 80.00,"label": "Spawn"}
 ,"marker_1": {"markup": false,"x": 26.00,"icon": "hammer","y": 81.00,"dim": "16x16","z": 66.00,"label": "Domovn\u00ED Domov"}
 ,"marker_2": {"markup": false,"x": 114.00,"icon": "cake","y": 76.00,"dim": "16x16","z": 32.00,"label": "pole"}
+,"marker_3": {"markup": false,"x": 1039.00,"icon": "default","y": 61.00,"dim": "16x16","z": 1532.00,"label": "end"}
 }
 ,"lines": {}
 ,"layerprio": 0}
 }
-,"timestamp": 1658064445037}
+,"timestamp": 1658068162037}
