@@ -672,6 +672,7 @@
       "minecraft:magma_cube": "2022-07-10 17:31:04 +0000",
       "minecraft:spider": "2022-07-07 15:48:01 +0000",
       "minecraft:creeper": "2022-07-07 08:19:50 +0000",
+      "minecraft:wither_skeleton": "2022-07-17 13:40:30 +0000",
       "minecraft:enderman": "2022-07-08 13:09:03 +0000",
       "minecraft:zombie": "2022-07-09 14:43:52 +0000",
       "minecraft:zombie_villager": "2022-07-10 14:24:19 +0000"
@@ -1011,6 +1012,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2022-07-07 15:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2022-07-17 13:39:53 +0000"
     },
     "done": true
   },
@@ -2943,6 +2950,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2022-07-07 07:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2022-07-17 13:41:44 +0000"
     },
     "done": true
   },
