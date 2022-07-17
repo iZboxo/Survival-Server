@@ -36,6 +36,14 @@ sets:
                 y: 61.0
                 z: 1532.0
                 label: end
+            marker_4:
+                world: world
+                markup: false
+                x: 1004.0
+                icon: fire
+                y: -13.0
+                z: 1540.0
+                label: End
         lines: {
             }
         layerprio: 0
