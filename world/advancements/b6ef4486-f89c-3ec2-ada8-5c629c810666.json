@@ -3324,6 +3324,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2022-07-18 07:51:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2022-07-07 15:57:38 +0000"
