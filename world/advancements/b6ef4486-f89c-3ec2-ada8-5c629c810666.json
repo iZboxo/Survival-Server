@@ -786,6 +786,7 @@
       "minecraft:evoker": "2022-07-22 18:28:27 +0000",
       "minecraft:zombified_piglin": "2022-07-17 17:07:55 +0000",
       "minecraft:wither_skeleton": "2022-07-17 13:40:30 +0000",
+      "minecraft:shulker": "2022-07-22 20:39:11 +0000",
       "minecraft:piglin": "2022-07-17 21:02:57 +0000",
       "minecraft:enderman": "2022-07-08 13:09:03 +0000",
       "minecraft:silverfish": "2022-07-17 14:40:50 +0000",
@@ -3252,6 +3253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2022-07-22 20:39:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2022-07-10 17:27:43 +0000"
@@ -3315,6 +3322,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2022-07-10 11:25:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2022-07-22 20:39:05 +0000"
     },
     "done": true
   },
