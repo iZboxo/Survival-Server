@@ -775,6 +775,7 @@
       "minecraft:vindicator": "2022-07-22 18:27:08 +0000",
       "minecraft:magma_cube": "2022-07-10 17:31:04 +0000",
       "minecraft:spider": "2022-07-07 15:48:01 +0000",
+      "minecraft:piglin_brute": "2022-07-22 19:19:42 +0000",
       "minecraft:creeper": "2022-07-07 08:19:50 +0000",
       "minecraft:evoker": "2022-07-22 18:28:27 +0000",
       "minecraft:zombified_piglin": "2022-07-17 17:07:55 +0000",
@@ -3427,6 +3428,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2022-07-18 08:00:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2022-07-22 19:20:20 +0000"
     },
     "done": true
   },
