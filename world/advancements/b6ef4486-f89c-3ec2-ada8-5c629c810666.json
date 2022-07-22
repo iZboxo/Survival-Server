@@ -1041,6 +1041,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-07-22 18:51:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2022-07-07 08:39:51 +0000"
@@ -1647,6 +1653,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2022-07-17 13:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2022-07-22 18:50:13 +0000"
     },
     "done": true
   },
@@ -3487,6 +3499,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-07-08 14:59:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-07-22 18:51:14 +0000"
     },
     "done": true
   },
