@@ -6,6 +6,7 @@ timestamp=$(date +%d-%m-%Y_%H-%M-%S)
 
 while true
 do
+git prune
 git add .
 git commit -m "auto-save"
 git push
