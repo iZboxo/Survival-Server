@@ -820,6 +820,7 @@
       "minecraft:pillager": "2022-07-09 08:23:38 +0000",
       "minecraft:blaze": "2022-07-17 13:39:09 +0000",
       "minecraft:skeleton": "2022-07-07 15:42:31 +0000",
+      "minecraft:ravager": "2022-08-06 17:14:07 +0000",
       "minecraft:ghast": "2022-07-10 17:41:12 +0000",
       "minecraft:vindicator": "2022-07-13 05:44:04 +0000",
       "minecraft:magma_cube": "2022-07-11 10:51:32 +0000",
@@ -1828,6 +1829,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2022-08-06 17:32:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2022-07-08 13:32:54 +0000"
@@ -2098,6 +2105,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2022-08-06 13:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2022-08-06 17:14:22 +0000"
     },
     "done": true
   },

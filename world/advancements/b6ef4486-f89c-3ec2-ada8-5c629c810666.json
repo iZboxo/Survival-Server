@@ -818,6 +818,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2022-07-17 08:46:01 +0000",
+      "minecraft:pillager": "2022-08-06 17:08:10 +0000",
       "minecraft:skeleton": "2022-07-07 08:23:03 +0000",
       "minecraft:ghast": "2022-07-18 16:25:23 +0000",
       "minecraft:vindicator": "2022-07-22 18:27:08 +0000",
@@ -963,6 +964,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2022-07-17 08:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2022-08-06 17:08:27 +0000"
     },
     "done": true
   },
@@ -1125,6 +1132,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2022-07-07 08:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2022-08-06 17:27:04 +0000"
     },
     "done": true
   },
@@ -1707,6 +1720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2022-08-06 17:27:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2022-07-07 08:11:19 +0000"
@@ -2080,6 +2099,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2022-07-17 16:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2022-08-06 17:14:22 +0000"
     },
     "done": true
   },
@@ -2920,6 +2945,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2022-08-06 17:27:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2022-07-17 16:42:55 +0000"
@@ -3583,6 +3614,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2022-07-17 13:41:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2022-08-06 16:54:12 +0000"
     },
     "done": true
   },
