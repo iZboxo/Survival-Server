@@ -485,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2022-08-07 16:07:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2022-07-16 17:16:19 +0000"
