@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2022-08-07 16:47:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-07 16:29:42 +0000"
@@ -287,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2022-08-07 16:47:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2022-08-07 16:43:57 +0000"
@@ -390,7 +402,8 @@
       "minecraft:stony_shore": "2022-08-07 16:24:27 +0000",
       "minecraft:lush_caves": "2022-08-07 16:28:57 +0000",
       "minecraft:ocean": "2022-08-07 16:25:41 +0000",
-      "minecraft:flower_forest": "2022-08-07 16:20:38 +0000"
+      "minecraft:flower_forest": "2022-08-07 16:20:38 +0000",
+      "minecraft:plains": "2022-08-07 16:46:44 +0000"
     },
     "done": false
   },
