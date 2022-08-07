@@ -831,6 +831,7 @@
       "minecraft:witch": "2022-07-17 16:39:57 +0000",
       "minecraft:wither_skeleton": "2022-07-17 11:31:34 +0000",
       "minecraft:ender_dragon": "2022-07-22 19:02:45 +0000",
+      "minecraft:shulker": "2022-08-07 13:12:56 +0000",
       "minecraft:cave_spider": "2022-07-09 07:44:17 +0000",
       "minecraft:piglin": "2022-07-21 15:31:19 +0000",
       "minecraft:enderman": "2022-07-08 13:38:16 +0000",
@@ -1670,6 +1671,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-07-07 15:53:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2022-08-07 13:12:38 +0000"
     },
     "done": true
   },
@@ -3431,6 +3438,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2022-07-09 13:30:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2022-08-07 13:12:33 +0000"
     },
     "done": true
   },
