@@ -29,15 +29,15 @@
     },
     "done": true
   },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2022-08-07 16:29:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2022-08-07 16:23:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-08-07 16:29:03 +0000"
     },
     "done": true
   },
@@ -130,15 +130,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2022-08-07 16:30:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2022-08-07 16:24:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2022-08-07 16:30:30 +0000"
     },
     "done": true
   },
@@ -190,27 +190,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_flint": "2022-08-07 16:30:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-07 16:29:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+  "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
-      "has_bed": "2022-08-07 16:29:42 +0000"
+      "has_flint": "2022-08-07 16:30:21 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2022-08-07 16:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-08-07 16:29:42 +0000"
     },
     "done": true
   },
@@ -268,6 +268,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-08-07 16:29:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-07 16:29:42 +0000"
@@ -277,12 +283,6 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-07 16:29:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2022-08-07 16:29:03 +0000"
     },
     "done": true
   },
