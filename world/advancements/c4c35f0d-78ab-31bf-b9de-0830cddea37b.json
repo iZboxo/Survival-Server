@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2022-08-08 16:46:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2022-08-08 13:20:57 +0000"
@@ -224,6 +230,12 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-08 14:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2022-08-08 16:46:18 +0000"
     },
     "done": true
   },
@@ -299,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2022-08-08 16:45:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_cut_copper_stonecutting": {
     "criteria": {
       "has_cut_copper": "2022-08-08 15:12:02 +0000"
@@ -308,6 +326,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2022-08-08 14:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2022-08-08 16:46:18 +0000"
     },
     "done": true
   },
@@ -665,6 +689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2022-08-08 16:45:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-08 14:04:01 +0000"
@@ -753,6 +783,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2022-08-08 16:46:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2022-08-08 14:07:08 +0000"
@@ -792,6 +828,18 @@
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2022-08-08 14:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2022-08-08 16:46:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-08-08 16:46:18 +0000"
     },
     "done": true
   },
@@ -1203,6 +1251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-08-08 16:46:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2022-08-08 15:25:21 +0000"
@@ -1263,6 +1317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-08-08 16:46:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2022-08-08 14:07:08 +0000"
@@ -1286,6 +1346,7 @@
       "minecraft:deep_ocean": "2022-08-08 13:56:51 +0000",
       "minecraft:sunflower_plains": "2022-08-08 15:59:23 +0000",
       "minecraft:beach": "2022-08-08 13:19:31 +0000",
+      "minecraft:dark_forest": "2022-08-08 16:45:32 +0000",
       "minecraft:river": "2022-08-08 13:34:09 +0000",
       "minecraft:stony_shore": "2022-08-08 13:34:23 +0000",
       "minecraft:forest": "2022-08-08 16:44:13 +0000",
@@ -1481,6 +1542,12 @@
       "minecraft:black": "2022-08-08 16:37:00 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2022-08-08 16:46:18 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
