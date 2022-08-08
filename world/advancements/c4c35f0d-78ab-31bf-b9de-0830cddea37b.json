@@ -35,9 +35,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-08-08 13:35:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2022-08-08 13:21:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_orange_dye": "2022-08-08 13:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2022-08-08 13:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-08-08 13:35:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2022-08-08 13:33:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-08-08 13:35:52 +0000"
     },
     "done": true
   },
@@ -68,6 +104,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2022-08-08 13:19:31 +0000",
+      "minecraft:river": "2022-08-08 13:34:09 +0000",
+      "minecraft:stony_shore": "2022-08-08 13:34:23 +0000",
       "minecraft:ocean": "2022-08-08 13:28:57 +0000",
       "minecraft:flower_forest": "2022-08-08 13:18:43 +0000"
     },
@@ -79,9 +117,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-08-08 13:35:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2022-08-08 13:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-08-08 13:33:41 +0000"
     },
     "done": true
   },
@@ -109,9 +159,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-08-08 13:35:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2022-08-08 13:28:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_orange_dye": "2022-08-08 13:33:33 +0000"
     },
     "done": true
   },
@@ -139,6 +201,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-08-08 13:35:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2022-08-08 13:28:56 +0000"
@@ -148,6 +216,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2022-08-08 13:28:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-08-08 13:35:52 +0000"
     },
     "done": true
   },
