@@ -1210,6 +1210,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2022-08-08 13:56:51 +0000",
+      "minecraft:sunflower_plains": "2022-08-08 15:59:23 +0000",
       "minecraft:beach": "2022-08-08 13:19:31 +0000",
       "minecraft:river": "2022-08-08 13:34:09 +0000",
       "minecraft:stony_shore": "2022-08-08 13:34:23 +0000",
@@ -1282,6 +1283,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2022-08-08 14:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2022-08-08 15:55:15 +0000"
     },
     "done": true
   },
