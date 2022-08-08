@@ -1,0 +1,40 @@
+{
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2022-08-08 13:21:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_helmet": "2022-08-08 13:21:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2022-08-08 13:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2022-08-08 13:21:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_helmet": "2022-08-08 13:21:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2022-08-08 13:19:31 +0000",
+      "minecraft:flower_forest": "2022-08-08 13:18:43 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3105
+}
