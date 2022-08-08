@@ -1076,6 +1076,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2022-08-08 16:33:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
     "criteria": {
       "has_orange_dye": "2022-08-08 13:33:33 +0000"
@@ -1239,6 +1245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2022-08-08 16:33:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2022-08-08 13:27:49 +0000"
@@ -1374,6 +1386,12 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper_from_honeycomb": {
     "criteria": {
       "has_cut_copper": "2022-08-08 15:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2022-08-08 16:31:48 +0000"
     },
     "done": true
   },
