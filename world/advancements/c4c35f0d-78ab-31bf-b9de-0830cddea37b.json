@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2022-08-08 14:16:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2022-08-08 13:28:09 +0000"
@@ -350,6 +356,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2022-08-08 14:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2022-08-08 14:16:38 +0000"
     },
     "done": true
   },
