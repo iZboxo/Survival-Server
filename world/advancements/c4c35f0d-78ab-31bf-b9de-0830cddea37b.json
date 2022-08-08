@@ -665,6 +665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2022-08-08 16:36:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2022-08-08 14:00:59 +0000"
@@ -718,7 +724,8 @@
       "minecraft:skeleton": "2022-08-08 14:20:23 +0000",
       "minecraft:spider": "2022-08-08 15:31:17 +0000",
       "minecraft:creeper": "2022-08-08 13:55:08 +0000",
-      "minecraft:zombie": "2022-08-08 16:13:55 +0000"
+      "minecraft:zombie": "2022-08-08 16:13:55 +0000",
+      "minecraft:drowned": "2022-08-08 16:39:17 +0000"
     },
     "done": false
   },
@@ -893,6 +900,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-08-08 14:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2022-08-08 16:36:04 +0000"
     },
     "done": true
   },
@@ -1091,6 +1104,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2022-08-08 15:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2022-08-08 16:36:04 +0000"
     },
     "done": true
   },
@@ -1421,7 +1440,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "minecraft:calico": "2022-08-08 13:29:54 +0000"
+      "minecraft:calico": "2022-08-08 13:29:54 +0000",
+      "minecraft:black": "2022-08-08 16:37:00 +0000"
     },
     "done": false
   },
