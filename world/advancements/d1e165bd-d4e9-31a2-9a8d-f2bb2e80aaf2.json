@@ -1587,6 +1587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2022-08-08 16:57:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2022-07-11 11:08:40 +0000"
@@ -1724,6 +1730,7 @@
       "minecraft:windswept_hills": "2022-08-07 14:33:37 +0000",
       "minecraft:beach": "2022-07-06 15:47:09 +0000",
       "minecraft:dark_forest": "2022-07-09 13:09:28 +0000",
+      "minecraft:mangrove_swamp": "2022-08-08 16:57:32 +0000",
       "minecraft:river": "2022-07-07 08:11:31 +0000",
       "minecraft:stony_shore": "2022-07-07 08:11:40 +0000",
       "minecraft:snowy_plains": "2022-07-12 13:53:20 +0000",
