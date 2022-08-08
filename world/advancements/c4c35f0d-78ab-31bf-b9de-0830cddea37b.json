@@ -717,7 +717,8 @@
     "criteria": {
       "minecraft:skeleton": "2022-08-08 14:20:23 +0000",
       "minecraft:spider": "2022-08-08 15:31:17 +0000",
-      "minecraft:creeper": "2022-08-08 13:55:08 +0000"
+      "minecraft:creeper": "2022-08-08 13:55:08 +0000",
+      "minecraft:zombie": "2022-08-08 16:13:55 +0000"
     },
     "done": false
   },
@@ -931,6 +932,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2022-08-08 16:12:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2022-08-08 13:59:25 +0000"
@@ -1000,6 +1007,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2022-08-08 14:00:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2022-08-08 16:12:07 +0000"
     },
     "done": true
   },
@@ -1235,6 +1248,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2022-08-08 13:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2022-08-08 16:12:07 +0000"
     },
     "done": true
   },
