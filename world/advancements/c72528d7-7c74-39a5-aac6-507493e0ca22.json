@@ -86,6 +86,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2022-08-09 14:03:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2022-08-09 13:07:59 +0000"
@@ -236,6 +242,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2022-08-09 14:03:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2022-08-09 13:12:44 +0000"
@@ -268,6 +280,12 @@
       "minecraft:basalt_deltas": "2022-08-09 13:12:45 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2022-08-09 14:03:27 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
