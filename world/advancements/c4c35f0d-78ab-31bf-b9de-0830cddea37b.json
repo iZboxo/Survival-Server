@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2022-08-09 13:23:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2022-08-08 14:26:13 +0000"
@@ -1034,6 +1040,7 @@
     "criteria": {
       "minecraft:pillager": "2022-08-08 18:23:22 +0000",
       "minecraft:skeleton": "2022-08-08 14:20:23 +0000",
+      "minecraft:magma_cube": "2022-08-09 13:23:07 +0000",
       "minecraft:spider": "2022-08-08 15:31:17 +0000",
       "minecraft:creeper": "2022-08-08 13:55:08 +0000",
       "minecraft:phantom": "2022-08-08 17:53:59 +0000",
@@ -1472,6 +1479,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-08 14:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2022-08-09 13:26:49 +0000"
     },
     "done": true
   },
