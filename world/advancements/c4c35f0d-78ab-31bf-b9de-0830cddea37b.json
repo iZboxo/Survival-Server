@@ -397,6 +397,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2022-08-09 10:45:46 +0000",
       "bread": "2022-08-08 13:33:41 +0000",
       "cod": "2022-08-09 10:31:03 +0000"
     },
@@ -945,6 +946,12 @@
   "minecraft:recipes/building_blocks/cut_copper_slab": {
     "criteria": {
       "has_cut_copper": "2022-08-08 15:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2022-08-09 10:48:15 +0000"
     },
     "done": true
   },
