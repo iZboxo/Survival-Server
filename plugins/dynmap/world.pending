@@ -2,8 +2,6 @@
 ---
 tiles:
 -   class: org.dynmap.hdmap.HDMapTile
-    data: -255,204,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
     data: -255,205,iso_SE_30_hires,0,0
 -   class: org.dynmap.hdmap.HDMapTile
     data: -255,206,iso_SE_30_hires,0,0
