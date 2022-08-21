@@ -485,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2022-08-21 11:57:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2022-07-23 09:11:02 +0000"
@@ -1664,6 +1670,7 @@
       "minecraft:flower_forest": "2022-07-06 15:28:14 +0000",
       "minecraft:frozen_peaks": "2022-08-21 11:51:32 +0000",
       "minecraft:old_growth_birch_forest": "2022-07-09 17:28:14 +0000",
+      "minecraft:deep_dark": "2022-08-21 11:54:31 +0000",
       "minecraft:meadow": "2022-07-09 13:46:35 +0000",
       "minecraft:plains": "2022-07-07 07:53:26 +0000"
     },
@@ -1858,6 +1865,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2022-07-11 13:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2022-08-21 11:56:10 +0000"
     },
     "done": true
   },
