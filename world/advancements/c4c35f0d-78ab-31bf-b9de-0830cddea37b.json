@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2022-08-22 06:56:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2022-08-08 15:32:26 +0000"
@@ -1575,8 +1581,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2022-08-22 06:55:59 +0000",
       "chorus_fruit": "2022-08-09 11:34:51 +0000",
       "cooked_beef": "2022-08-09 10:45:46 +0000",
+      "tropical_fish": "2022-08-22 06:54:34 +0000",
       "apple": "2022-08-09 13:20:58 +0000",
       "bread": "2022-08-08 13:33:41 +0000",
       "golden_apple": "2022-08-09 13:57:00 +0000",
