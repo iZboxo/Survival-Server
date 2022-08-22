@@ -809,6 +809,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2022-08-22 10:44:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2022-07-07 15:56:50 +0000"
@@ -848,6 +854,7 @@
       "minecraft:zombified_piglin": "2022-07-17 17:07:55 +0000",
       "minecraft:witch": "2022-08-07 17:46:06 +0000",
       "minecraft:wither_skeleton": "2022-07-17 13:40:30 +0000",
+      "minecraft:ender_dragon": "2022-08-22 10:44:13 +0000",
       "minecraft:shulker": "2022-07-22 20:39:11 +0000",
       "minecraft:piglin": "2022-07-17 21:02:57 +0000",
       "minecraft:enderman": "2022-07-08 13:09:03 +0000",
