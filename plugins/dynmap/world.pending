@@ -1,300 +1,71 @@
 %YAML 1.1
 ---
-tiles:
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,205,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,206,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,207,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,208,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,209,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,210,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,211,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,212,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,213,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,214,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,215,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,216,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,217,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,218,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,219,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,220,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,221,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,222,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,223,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,224,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,225,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,226,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,227,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,228,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,229,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,230,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,231,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,232,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,233,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,234,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,235,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -255,236,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,192,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,193,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,194,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,195,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,196,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,197,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,198,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,199,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,200,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,201,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,202,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,203,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,204,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,205,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,206,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,207,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,208,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,209,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,210,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,211,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,212,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,213,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,214,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,215,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,216,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,217,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,218,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,219,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,220,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,221,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,222,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,223,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,224,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,225,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,226,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,227,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,228,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,229,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,230,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,231,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,232,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,233,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,234,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -254,235,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,192,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,193,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,194,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,195,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,196,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,197,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,198,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,199,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,200,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,201,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,202,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,203,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,204,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,205,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,206,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,207,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,208,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,209,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,210,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,211,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,212,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,213,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,214,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,215,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,216,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,217,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,218,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,219,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,220,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,221,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,222,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,223,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,224,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,225,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,226,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,227,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,228,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,229,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,230,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,231,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,232,iso_SE_30_hires,0,0
--   class: org.dynmap.hdmap.HDMapTile
-    data: -253,233,iso_SE_30_hires,0,0
 invalid:
     ct:
-    - ffffffff/ffffffff:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:20000000/0:8000000/0:0/0
+    - 0/ffffffff:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/2:0/0
+    - ffffffff/ffffffff:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:4000000/0:0/0:0/0:0/0:0/0:0/0:0/0
     t:
-    - fffffffc/3:3ffff/fffffff0:1ffff/fffffff0:1ffff/fffffff0:1ffff/fffffff0:1ffff/fffffff0:7fff/fffffff0:7fff/fffffff0:7fff/fffffff0:3fff/fffffff0:3fff/fffffff0:3fff/fffffff0:3fff/fffffff0:fff/fffffff0:fff/fffffff0:fff/fffffff0:fff/fffffff0:fff/fffffff0:fff/fffffff0:7ff/fffffff0:7ff/fffffff0:3ff/fffffff0:ff/fffffff0:0/ffff0:0/ffff0:0/ffff0:0/ffff0:0/ffff0:0/ffff0:0/ffff0:0/ffff0:0/ffff0:0/ffff0:0/ffff0:0/ffff0:0/ffff0:0/ffff0:0/ffff0:0/7fff0:0/7fff0:0/3fff0:0/fff0:0/fff0:0/7ff0:0/ff8:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
-    - fffffffd/2:0/0:0/0:0/3:0/3:0/3:0/3:0/213:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
-    - fffffffe/1:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:1f/ffffffff:1f/ffffffff:7/ffffffff:3/ffffffff:3/ffffffff:3/ffffffff:0/ffffffff:0/ffffffff:0/ffffffff:0/ffffffff:0/fffffff8:0/fffffff0:0/ffffffc0:0/fffffe00:0/fffffc00:0/7fffe000:0/3fffc000:0/7fe0000:0/1fc0000:0/f00003:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
-    - ffffffff/0:3800d000/0:30005180/0:300000/0:3e000000/0:e080000/0:1e000000/0:6000000/0:0/0:0/0:0/0:100000/0:0/80000000:0/80000000:0/0:0/0:0/10000000:0/30000000:0/30000020:0/0:0/10780000:2/10060000:0/140000:1001/90120000:0/540000:1/80500400:80/0:80/10:0/110:0/60000000:0/1:0/0:0/0:0/0:0/600000:0/800000:0/0:0/0:0/0:0/0:0/0:0/1:0/1:0/0:0/0:0/10:0/10:0/0:8/0:8/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
-    - ffffffff/ffffffff:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:600/0:620/0:620/0:800/0:0/0:100000/0:100000/0:0/0:0/0:400/0:400/0:200/0:0/0:a000000/0:2020000/0:0/0:4080000/0:0/0:100080/0:80/0:602e000/0:e326000/0
-    - 0/0:0/0:0/0:0/2:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
-    - fffffffc/2:ffffffff/ffff001f:ffffffff/ffff001f:ffffffff/ffff001f:ffffffff/ffff001f:ffffffff/ffff001f:ffffffff/ffff001f:ffffffff/ffff001f:ffffffff/ffff001f:ffffffff/ffff001f:ffffffff/ffff001f:ffffffff/ffff001f:ffffffff/ffff001f:ffffffff/ffff001f:ffffffff/ffff001f:ffffffff/ffff0007:ffffffff/ffff8007:ffffffff/ffffe000:ffffffff/ffffffc0:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:7fffffff/ffffffff:fffffff/ffffffff:7ffffff/ffffffff:1ffffff/ffffffff:1ffffff/ffffffff:1ffffff/ffffffff:ffffff/ffffffff:3fffff/ffffffff:3fffff/ffffffff:1fffff/ffffffff:fffff/ffffffff:fffff/ffffffff:3ffff/ffffffff:3ffff/ffffffff:3ffff/ffffffff:3ffff/ffffffff
-    - fffffffe/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/18:0/0:0/0:0/0:0/1c0:0/d80:10000000/1:0/f:0/3f:0/ff:0/3ff:40000/7ff:c0000/3fff:0/7fff:0/3ffff:0/c00fffff:10000/1fffff:80010000/ffffff:80000000/1ffffff:0/fffffff:0/3fffffff:3f/ffffffff:403f/ffffffff:403f/ffffffff:3f/ffffffff:43f/ffffffff:43f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:43f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff:3f/ffffffff
-    - fffffffc/1:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/1:0/7:0/7:0/1f:0/1f:0/1f:0/1f:0/1f:0/1f:0/1f:0/1f:0/1f:0/1f:0/1f:0/1f:0/1f:f00/1f:3fff/c000001f:3fff/ffc0001f:3fff/ffc0001f:3fff/ffc0001f:3fff/ffc0001f:1ffff/ffc0001f:1ffff/ffe0001f:1ffff/ffff001f:fffff/ffff001f:1fffff/ffff001f:1fffff/ffff001f:3fffff/ffff001f:ffffff/ffff001f:ffffff/ffff001f:ffffff/ffff001f:1ffffff/ffff001f:7ffffff/ffff001f:1fffffff/ffff001f:7fffffff/ffff001f
-    - fffffffd/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:7fffe0/0:3ffffe0/0:1fffffe0/0:3ffffff0/0:fffffffc/0:ffffffff/c0000000:ffffffff/c0000000:ffffffff/e0000000:ffffffff/e0000000:ffffffff/f8000000:ffffffff/fc000000:ffffffff/ff000000:ffffffff/ff000000:ffffffff/ff000000:ffffffff/ff000000:ffffffff/ff000000:ffffffff/ffc00000:ffffffff/ffc00000:ffffffff/fff00000:ffffffff/fff80000:ffffffff/ffffe000:ffffffff/fffff000:ffffffff/fffff000:ffffffff/fffffc00:ffffffff/fffffe00:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0
-    - fffffffd/1:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffff3f/ffffffc0:fffff80f/ffffffc0:fffff003/ffffffc0:ffff8000/7fffffc0:ffff0000/3fffffc0:fffc0000/1fffffc0:ffe00000/7fffc0:ffc02000/1fffc0:fe000000/7ffc0:fc000000/1ffc0:f0000000/ffc0:80000000/1fc0:0/fc0:0/0:0/0:0/0:6/8:400000/0:400000/0:0/0:180/0:0/200:0/1000280:0/10000c0:0/0:0/0:0/0:70/0:600/0:0/8001:0/8000:0/8000:0/0:0/0:0/0:0/8:0/0:0/0:0/0:0/0:0/200
-    - fffffffb/1:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:f000000/0:f000000/0:f000000/0:f800000/0:f800000/0:3f800000/0:7f800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0:ff800000/0
-    - fffffffa/3:7/fffc0000:7/fffc0000:7/fffc0000:7/fffc0000:7/fffc0000:7/fffc0000:7/fffc0000:7/fffc0000:7/fffc0000:7/fffc0000:7/fffc0000:7/fffc0000:7/fffc0000:3/fffc0000:3/fffc0000:3/fffc0000:3/fffc0000:3/fffc0000:3/fffc0000:3/fffc0000:3/fffc0000:3/fffc0000:1/fffc0000:1/fffc0000:1/fffc0000:1/fffc0000:1/fffc0000:1/fffc0000:1/fffc0000:1/fffc0000:1/fffc0000:1/fffc0000:1/fffc0000:1/fffc0000:1/fffc0000:1/fffc0000:1/fffc0000:1/fffc0000:1/fffc0000:1/fffc0000:1/fffc0000:1/fffc0000:1/fffc0000:1/fffc0000:1/fffc0000:3/fffc0000:0/fffc0000:0/fffc0000:0/fffc0000:0/fffc0000:0/7ffc0000:0/7ffc0000:0/7ffc0000:0/3ffc0000:0/3ffc0000:0/ffc0000:0/ffc0000:0/ffc0000:0/ffc0000:0/ffc0000:0/7f00000:0/1e00000:0/0:0/0
-    - fffffffa/2:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:c0000000/0:e0000000/0:e0000000/0:e0000000/0:e0000000/0:e0000000/0:e0000000/0:e0000000/0:e0000000/0:e0000000/0:e0000000/0:e0000000/0:e0000000/0:e0000000/0:e0000000/0:e0000000/0:e0000000/0:e0000000/0:ffffffe0/0:ffffffe0/0:ffffffe0/0:ffffffe0/0:ffffffe0/0:ffffffe0/0:ffffffe0/0:ffffffe0/0:ffffffe0/0:ffffffe0/0:ffffffe0/0:ffffffe0/0:ffffffe0/0:ffffffe0/0:ffffffe0/0:ffffffe0/0:ffffffe0/0:fffffff0/0:fffffff0/0:fffffff0/0:fffffff0/0:fffffff0/0:fffffff0/0:fffffff0/0:fffffff0/0:fffffff0/0:fffffff0/0
+    - 0/0:0/0:0/40:0/40:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - ffffffff/ffffffff:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:800/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
     flat:
-    - 0/ffffffff:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/1:0/0:0/0:0/0:0/0
-    - ffffffff/ffffffff:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:80000000/0:0/0:0/0:0/0:0/0:0/0
+    - 0/ffffffff:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/1:0/0:0/0:0/0:0/0:0/0:0/0:0/8:0/0
 invZoomOut:
     ct:
     - &id001 [
         ]
-    - *id001
-    - *id001
-    - *id001
-    - *id001
+    - [
+        ]
+    - [
+        ]
+    - [
+        ]
+    - [
+        ]
     -   - ffffffff/ffffffff:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:40000000/0
+        - 0/0:0/1:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
     - *id001
-    -   - ffffffff/0:80000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
-    -   - ffffffff/0:80000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
-    -   - ffffffff/0:80000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    -   - ffffffff/0:0/0:60000000/0:40000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+        - 0/0:0/1:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    -   - ffffffff/0:0/0:20000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    -   - ffffffff/0:40000000/0:c0000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
     t:
+    - [
+        ]
+    - [
+        ]
+    - [
+        ]
+    - [
+        ]
+    - [
+        ]
+    - [
+        ]
+    - [
+        ]
     - *id001
-    - *id001
-    - *id001
-    - *id001
-    - *id001
-    - *id001
-    - *id001
-    -   - fffffffc/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/3:0/1:0/1:0/1:0/1:0/1:0/1:0/1:0/1:0/1:0/1:0/1:0/1:0/1:0/1:0/1:0/1:0/1:0/1:0/1:0/1:0/1:0/1:0/1:0/1:0/1:0/1:0/1:0/1:0/1:0/1:0/1:0/1:0/1:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
-        - fffffffa/2:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:1f/f0000000:1f/f0000000:1f/f0000000:1f/f0000000:1f/f0000000:1f/f0000000:1f/f0000000:1f/f8000000:1e/f8000000:1f/f8000000:1f/f8000000:1f/f8000000:1f/f8000000:1f/f8000000:1f/f8000000:1f/f8000000:1f/f8000000:f/f8000000:f/f8000000:f/f8000000:f/f8000000:f/f8000000:f/f8000000:f/f8000000:f/f8000000:f/f8000000:f/f8000000
-    -   - fffffffd/1:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/3800:0/3800:0/3800:0/3800:0/3800:0/3800:0/3800:0/3800:0/3800:0/3800:0/3c00:0/3c00:0/3c00:0/3c00:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
-    -   - fffffffe/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:30/0:30/0:30/0:30/0:30/0:30/0:30/0:80000000/0:80000000/0:80000000/0:80000000/0:80000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
-    -   - ffffffff/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/80000000:0/80000000:0/80000000:0/80000000:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
-    -   - ffffffff/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:8000/0:8000/0:8000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
-    -   - ffffffff/0:0/0:0/0:0/0:0/0:0/0:0/0:800000/0:800000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
-    -   - ffffffff/0:0/0:0/0:0/0:8000000/0:8000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    -   - ffffffff/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:10000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+        - 0/0:0/0:0/8:0/8:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    -   - ffffffff/ffffffff:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:8000000/0:0/0
+        - ffffffff/0:0/0:0/0:806000/0:20e000/0:c08000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    -   - ffffffff/0:0/0:2400000/0:e600000/0:4000000/0:4000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    -   - ffffffff/0:c000000/0:1c000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    -   - ffffffff/0:20000000/0:20000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    -   - ffffffff/0:c0000000/0:40000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
     flat:
+    - [
+        ]
+    - [
+        ]
     - *id001
-    - *id001
-    - *id001
-    - *id001
-    - *id001
-    -   - 0/ffffffff:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/1:0/0:0/1:0/0:0/0
-    -   - 0/ffffffff:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/1:0/0
-    - *id001
-    -   - ffffffff/0:80000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - [
+        ]
+    - [
+        ]
     -   - 0/0:0/1:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    -   - 0/ffffffff:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/2:0/0:0/0
+        - 0/0:0/6:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    -   - 0/0:0/1:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - *id001
+    -   - ffffffff/0:c0000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+        - 0/0:0/1:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
