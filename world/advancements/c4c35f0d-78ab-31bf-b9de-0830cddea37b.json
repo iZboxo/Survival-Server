@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2022-08-22 06:36:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2022-08-08 13:51:31 +0000"
@@ -1116,6 +1122,12 @@
   "minecraft:recipes/decorations/orange_candle": {
     "criteria": {
       "has_orange_dye": "2022-08-08 13:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2022-08-22 06:36:09 +0000"
     },
     "done": true
   },
