@@ -497,6 +497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2022-08-22 18:11:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2022-08-08 14:00:59 +0000"
@@ -638,6 +644,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2022-08-08 16:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2022-08-22 18:11:54 +0000"
     },
     "done": true
   },
@@ -1402,6 +1414,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2022-08-22 18:11:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2022-08-22 11:07:03 +0000"
@@ -1468,6 +1486,12 @@
       "minecraft:basalt_deltas": "2022-08-09 13:21:24 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2022-08-22 18:12:08 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
@@ -1679,6 +1703,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2022-08-22 18:11:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-08 14:04:01 +0000"
@@ -1706,6 +1736,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2022-08-08 13:28:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2022-08-22 18:11:54 +0000"
     },
     "done": true
   },
@@ -1769,6 +1805,7 @@
       "sweet_berries": "2022-08-22 06:55:59 +0000",
       "chorus_fruit": "2022-08-09 11:34:51 +0000",
       "cooked_beef": "2022-08-09 10:45:46 +0000",
+      "baked_potato": "2022-08-22 18:15:34 +0000",
       "tropical_fish": "2022-08-22 06:54:34 +0000",
       "apple": "2022-08-09 13:20:58 +0000",
       "cooked_cod": "2022-08-22 08:48:29 +0000",
@@ -1943,6 +1980,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2022-08-22 18:11:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2022-08-08 13:38:21 +0000"
@@ -2111,6 +2154,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2022-08-22 18:11:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab": {
     "criteria": {
       "has_cut_copper": "2022-08-08 15:12:02 +0000"
@@ -2132,6 +2181,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2022-08-08 16:46:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2022-08-22 18:11:54 +0000"
     },
     "done": true
   },
@@ -2237,6 +2292,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2022-08-22 18:11:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_cut_copper_stonecutting": {
     "criteria": {
       "has_cut_copper": "2022-08-08 15:12:02 +0000"
@@ -2246,6 +2307,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-08-08 17:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2022-08-22 18:11:54 +0000"
     },
     "done": true
   },
@@ -2336,6 +2403,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2022-08-08 13:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2022-08-22 18:11:54 +0000"
     },
     "done": true
   },
@@ -2745,6 +2818,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2022-08-08 16:46:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2022-08-22 18:11:54 +0000"
     },
     "done": true
   },
