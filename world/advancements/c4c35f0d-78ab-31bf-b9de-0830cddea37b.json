@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-08-22 10:22:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2022-08-22 06:36:09 +0000"
@@ -509,6 +515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2022-08-22 10:22:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2022-08-08 15:25:21 +0000"
@@ -620,6 +632,7 @@
       "minecraft:creeper": "2022-08-08 13:55:08 +0000",
       "minecraft:slime": "2022-08-22 06:46:35 +0000",
       "minecraft:phantom": "2022-08-08 17:53:59 +0000",
+      "minecraft:piglin": "2022-08-22 10:24:42 +0000",
       "minecraft:endermite": "2022-08-22 06:20:12 +0000",
       "minecraft:zombie": "2022-08-08 16:13:55 +0000",
       "minecraft:drowned": "2022-08-08 16:39:17 +0000",
@@ -741,6 +754,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-08-22 10:22:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2022-08-22 09:02:51 +0000"
@@ -843,6 +862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-08-22 10:22:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2022-08-08 14:04:01 +0000"
@@ -882,6 +907,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2022-08-09 11:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-08-22 10:22:35 +0000"
     },
     "done": true
   },
@@ -1308,6 +1339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-08-22 10:22:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/weathered_cut_copper_slab_from_weathered_copper_stonecutting": {
     "criteria": {
       "has_weathered_copper": "2022-08-09 06:04:13 +0000"
@@ -1660,6 +1697,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2022-08-08 13:27:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-08-22 10:22:35 +0000"
     },
     "done": true
   },
@@ -2233,6 +2276,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-08-22 10:22:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2022-08-08 13:59:25 +0000"
@@ -2305,6 +2354,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-08-22 10:22:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-08-08 17:33:01 +0000"
@@ -2368,6 +2423,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2022-08-08 15:25:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2022-08-22 10:22:35 +0000"
     },
     "done": true
   },
@@ -2524,6 +2585,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2022-08-09 11:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-08-22 10:22:35 +0000"
     },
     "done": true
   },
