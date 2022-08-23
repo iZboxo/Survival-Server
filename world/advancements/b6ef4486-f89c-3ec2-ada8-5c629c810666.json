@@ -815,6 +815,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/ride_a_boat_with_a_goat": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2022-08-23 11:30:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-07-08 14:59:59 +0000"
@@ -2708,7 +2714,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:sheep": "2022-07-09 19:48:16 +0000"
+      "minecraft:sheep": "2022-07-09 19:48:16 +0000",
+      "minecraft:goat": "2022-08-23 11:33:45 +0000"
     },
     "done": false
   },
