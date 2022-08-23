@@ -611,6 +611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2022-08-23 09:57:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2022-07-17 11:31:37 +0000"
@@ -1140,6 +1146,12 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2022-07-09 18:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2022-08-23 09:57:25 +0000"
     },
     "done": true
   },
@@ -1833,6 +1845,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2022-08-23 09:57:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_red_flower": "2022-07-07 07:51:06 +0000"
@@ -2044,6 +2062,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2022-07-17 15:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2022-08-23 09:57:25 +0000"
     },
     "done": true
   },
@@ -2302,6 +2326,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2022-07-13 07:40:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2022-08-23 09:57:27 +0000"
     },
     "done": true
   },
@@ -2576,6 +2606,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2022-07-09 18:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2022-08-23 09:57:25 +0000"
     },
     "done": true
   },
@@ -3032,6 +3068,12 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2022-07-17 16:42:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2022-08-23 09:57:25 +0000"
     },
     "done": true
   },
@@ -3581,6 +3623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2022-08-23 09:57:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-07-09 19:54:07 +0000"
@@ -3953,6 +4001,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2022-07-13 07:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2022-08-23 09:57:55 +0000"
     },
     "done": true
   },
